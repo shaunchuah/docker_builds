@@ -4,6 +4,12 @@ A collection of Dockerfiles used to build reusable containers for use with nextf
 
 <https://hub.docker.com/u/shaunchuah>
 
+## shaunchuah/bowtie2_samblaster_samtools
+
+- Bowtie2 v2.4.5
+- samblaster v.0.1.26
+- samtools v1.15.1
+
 ## shaunchuah/kraken_bracken
 
 Base image: python3.10-buster (debian-based)
